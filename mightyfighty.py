@@ -34,7 +34,7 @@ health = hp
 atk = random.randint(25,50)
 xp = 0
 gold = random.randint(1,10)
-potion = 0
+potion = 0 
 level = 1
 
 titles1 = ["Rainbow","Fluffy","Sparkly","Demonic","Evil","Dark","Confused","Lonely","Magical","Rabid","Beastly","Stinky","Slimey","Boring"]
