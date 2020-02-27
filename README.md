@@ -9,18 +9,3 @@ I have put almost everything into a function so that it is easier to organize, e
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{{{ "][" {()} {()} ][_, }}}
