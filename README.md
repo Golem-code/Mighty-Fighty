@@ -7,5 +7,6 @@ When enough xp is gained, an upgrade is available, along with more features such
 The game finishes at level 4.
 I have put almost everything into a function so that it is easier to organize, even though it would make no more code to no have any functions.
 
+Cattle Battle is a 'sequel' to mighty fighty, it has more features such as inventory, consumables and others.
 
 
